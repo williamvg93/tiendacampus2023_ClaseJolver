@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Core.Interfaces;
 using Infrastructure.UnitOfWork;
 using Microsoft.AspNetCore.Mvc.ModelBinding.Binders;
 using Microsoft.Extensions.Options;
@@ -20,6 +21,6 @@ public static class ApplicationServiceExtension
 
     public static void AddApplicationServices(this IServiceCollection services)
     {
-        services.AddScoped<UnitOfWork, UnitOfWork>();
+        services.AddScoped<IUniOnWork, UnitOfWork>();
     }
 }

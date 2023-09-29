@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\API\\API.csproj": {}
+    "C:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\API\\API.csproj": {
+    "C:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\API\\API.csproj",
+        "projectPath": "C:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\API\\API.csproj",
         "packagesPath": "C:\\Users\\APM02-066\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\API\\obj\\",
+        "outputPath": "C:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APM02-066\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "c:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "c:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\Core\\Core.csproj": {
+    "C:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "c:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\APM02-066\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\Core\\obj\\",
+        "outputPath": "C:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APM02-066\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -133,14 +133,14 @@
         }
       }
     },
-    "c:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "c:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\APM02-066\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APM02-066\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -155,8 +155,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\Core\\Core.csproj": {
-                "projectPath": "c:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\Core\\Core.csproj"
+              "C:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\Core\\Core.csproj"
               }
             }
           }

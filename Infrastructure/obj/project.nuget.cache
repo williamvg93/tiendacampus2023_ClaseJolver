@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8gjzNLTZzv/fAw655tk+ZEPTg6x5OYlJ/zKD3WQ6pGK8dLwGXjtYONYhcT7H126Pcf2iDKN+QkzQ5KgVotxqtg==",
+  "dgSpecHash": "QW14gURkfkC9y/iuQ7VTNJHbBkKOaKdRrxX6NL05nEavJhjLwzT+ncV6zRnWq0TESChlsffe6ijGCwsT99pJzw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\APM02-066\\Documents\\Trowa\\netCore\\tiendacampus2023_ClaseJolver\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\APM02-066\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
     "C:\\Users\\APM02-066\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.10\\microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",
